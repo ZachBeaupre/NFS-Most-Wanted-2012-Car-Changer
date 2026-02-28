@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="24">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>8298</ID>
+      <Description>"My Current Car ID"</Description>
+      <DropDownList DisplayValueAsItem="1">
+	  :Base game + DLC
+1085698:Alpha Romeo 4C Concept
+2196263:Alpha Romeo Mito QV (DLC)
+1160082:Ariel Atom 500 V8
+2196529:Aston Martin DB5 (DLC)
+2196595:Aston Martin DBS (DLC)
+122672:Aston Martin V12 Vantage
+1160139:Audi A1 clubsport quattro
+122675:Audi R8 GT Spyder
+2196131:Audi RS3 Sportback (DLC)
+1160025:BAC Mono
+866774:Bentley Supersports ISR
+2196065:BMW 1 Series M Coupe (DLC)
+393276:BMW M3 GTR (DLC)
+122692:Bugatti Veyron Super Sport
+2076005:Bugatti Veyron Vitesse (DLC)
+393001:Caterham Superlight R500
+621053:Chevrolet Camaro ZL1
+122701:Chevrolet Corvette ZR1
+2196466:Dodge Charger R/T (DLC)
+300097:Ford F-150 SVT Raptor
+2196197:Ford Fiesta ST (DLC)
+1160480:Ford Focus RS500
+122714:Ford Focus RS500
+122716:Ford Mustang Boss 302
+2076137:Hennessey Venom GT Spyder (DLC)
+1399602:Jaguar XKR
+589261:Koenigsegg Agera R
+392074:Lamborghini Aventador
+2076203:Lamborghini Aventador J (DLC)
+1085091:Lamborghini Countach
+2076339:Lamborghini Diablo SV (DLC)
+1085633:Lamborghini Gallardo
+1097100:Lancia Delta HF Integrale
+1085958:Range Rover Evoque
+1085511:Lexus LFA
+1551590:Marussia B2
+122757:Maserati GT MC Stradale
+2076070:McLaren F1 LM (DLC)
+122765:McLaren MP4-12C
+122769:Mercedes-Benz SL 65 AMG
+122773:Mercedes-Benz SLS AMG
+866832:Mitsubishi EVOLUTION X
+2076462:NISSAN 350Z (DLC)
+435169:NISSAN GT-R EGOIST
+2076524:NISSAN SKYLINE GT-R (R34) (DLC)
+535435:Pagani Huayra
+2076266:Pagani Zonda R	(DLC)
+2196399:Pontiac Firebird T/A (DLC)
+1085007:Porsche 911 Carrera S		
+2076399:Porsche 911 GT2			
+1085186:Porsche 911 Turbo 3.0		
+2196000:Porsche 918 Spyder (DLC) 	
+1085830:Porsche 918 Spyder Concept	
+535621:Porsche Panamera Turbo S	
+1085576:Shelby Cobra 427 ®		
+2196334:Shelby GT500 ™	(DLC)		
+122704:SRT Dodge Challenger SRT8 	
+1160350:SRT Viper GTS 			
+122814:Subaru Cosworth Impreza		
+1085764:Tesla Roadster Sport
+:cars you shouldnt be allowed to drive are next
+:Promo cars
+Dodge Charger SRT8 (Slim Jim Promo Car): 1399322 
+Ford Focus ST (Multiplayer Only Car): 1399539
+Pagani Huayra (Trailer only car, similar to the original Huayra): 535435
+:Police cars
+510072:Ford Explorer Police (Rhino)
+122713:Ford Crown Victoria Police
+122706:Dodge Charger SRT8 Police
+1467242:SWAT Van
+122699:Corvette Z06 Police
+:Cut cars
+:!! you must install additional files !!! 
+:You can download them at this site: https://nfsmods.xyz/usermods/1044
+1085448:Chevrolet Corvette Stingray	(Needs Files)
+1097663:Jeep Grand Cherokee SRT8 (Needs Files)
+1097968:Hummer H1 Alpha	
+:Pre-order, the limited edition game cars
+:(Have special black car paint and they have a little bit faster acceleration than original cars)
+1467164:Ford Raptor pre-order (NFS Edition)
+1467172:Maserati MC12 pre-order (NFS Edition)
+1467179:Mercedes benz SL 65 pre-order (NFS Edition)
+1467186:Porsche 911 pre-order (NFS Edition)
+1467156:Caterham R500 pre-order (NFS Edition)
+:They are also always black after you repair your car at the knocking brothers.
+:Unknown
+:!!! Dont try these IDs because the game will crash !!!
+122817:Aston Martin V12 Vantage (will not work)
+1160687:Pagani Huayra NFS Edition (will not work)
+1644846:Nissan Versa (will not work)
+:Is important to note that these are valid vehicle IDs and the one time that it didnt crash i saw the name Nissan Versa... i just couldnt drive
+
+</DropDownList>
+      <LastState Value="1085830" RealAddress="2AD93994"/>
+      <Color>008585</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>nfs13.exe+00d0fd08</Address>
+      <Offsets>
+        <Offset>-160a4</Offset>
+        <Offset>18</Offset>
+        <Offset>308</Offset>
+        <Offset>50</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols>
+    <SymbolEntry>
+      <Name>light</Name>
+      <Address>006C78C1</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>max</Name>
+      <Address>0043214B</Address>
+    </SymbolEntry>
+  </UserdefinedSymbols>
+  <Comments>NFSMW2012 Car Switcher 9000
+</Comments>
+</CheatTable>
