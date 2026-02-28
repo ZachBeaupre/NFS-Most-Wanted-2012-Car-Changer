@@ -1,3 +1,4 @@
+Have Cheat engine installed https://www.cheatengine.org/ 
 double click to run the .CT file and then select the game (need for speed 2012)
 
 To change vehicles, double click on the word "value" and then edit the text in the window that appears then press "ok"
