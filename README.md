@@ -1,6 +1,7 @@
 double click to run the .CT file and then select the game (need for speed 2012)
 
 To change vehicles, double click on the word "value" and then edit the text in the window that appears then press "ok"
+use the txt file i provided, but if you are using the CT file then you can literally just select the car from a dropdown menu
 next, crash your vehicle into a car, wall, off a cliff (make the crash cutscene thing happen) 
 OR
 head to a jackspot and press the button that it tells you to when you approach the jack spot to jump in the car
