@@ -15,3 +15,7 @@ DISCLAIMER: if you fuck up your save file... its not my fault... because I said 
 im just putting that there just in case lol
 
 (Cars marked with (DLC) might not let you drive them if you dont have the dlc... im not sure. I say give it a shot)
+
+A good reference for the performance of the stock basegame and stock dlc cars
+https://akgunakgunduz.github.io/nfs-mw-2012-cars/
+doesnt really list the top speed in mph or kmh though but still very very useful
