@@ -1,0 +1,146 @@
+The top most part of the list was compiled by me
+This took me a LONG time
+however adjusting the game speed using cheat engine made the process slightly more bearable.
+
+to use this in cheat engine: 
+(skip to line 26 if you are using the CT file)
+go to the process list and select NFS13.exe - this is the games executable and is what cheat engine will be modifying
+click on the "add address manually" button and then do the following (in order)
+
+Click the checkbox labeled "Pointer", and enable it
+press the add offset button EXACTLY 4 times so that you get 5 boxes
+
+
+then you enter the data like this 
+(but without the weird brackets, i did that to make it look like the menu)
+[<][    -160a4    ][>]
+[<][      18      ][>]
+[<][     308      ][>]
+[<][      50      ][>]
+[<][       8      ][>]
+
+
+then type My Current Car ID as the description or something... or name it what ever you want... like greg or something... i dont care
+then press ok to add it to the table.
+
+**Alternatively, if this is too complicated or tedious (i would agree) you can use the CT file i will provide... once i finish it**
+**the CT file will let you use a dropdown menu for choosing a car** 
+To change vehicles, double click on the word "value" and then edit the text in the window that appears then press "ok"
+next, crash your vehicle into a car, wall, off a cliff (make the crash cutscene thing happen) 
+OR
+head to a jackspot and press the button that it tells you to when you approach the jack spot to jump in the car
+Doing the jackspot method spawns the car next to the car you jump into and in my opinion is more tedious.
+
+you might be able to change vehicles during races also, but you would have to alt tab, double click on something, paste a value, press enter, and then tab back in and crash the car
+so like... really not worth it... also cheating is lame.
+
+DISCLAIMER: if you fuck up your save file... its not my fault... because I said so... 
+im just putting that there just in case lol
+
+(Cars marked with (DLC) might not let you drive them if you dont have the dlc... im not sure. I say give it a shot)
+
+Cars from in game menu, Ordered as such------------------------------------------------------------------------------------------
+Alpha Romeo 4C Concept		1085698
+Alpha Romeo Mito QV (DLC)	2196263
+Ariel Atom 500 V8		1160082
+Aston Martin DB5 (DLC)		2196529
+Aston Martin DBS (DLC)		2196595
+Aston Martin V12 Vantage	122672
+Audi A1 clubsport quattro	1160139
+Audi R8 GT Spyder		122675
+Audi RS3 Sportback (DLC)	2196131
+BAC Mono			1160025
+Bentley Supersports ISR		866774
+BMW 1 Series M Coupe (DLC)	2196065
+BMW M3 GTR (DLC)		393276
+Bugatti Veyron Super Sport	122692
+Bugatti Veyron Vitesse (DLC)	2076005
+Caterham Superlight R500	393001
+Chevrolet Camaro ZL1		621053
+Chevrolet Corvette ZR1		122701
+Dodge Charger R/T (DLC)		2196466
+Ford F-150 SVT Raptor		300097
+Ford Fiesta ST (DLC)		2196197 
+Ford Focus RS500		1160480
+Ford GT				122714
+Ford Mustang Boss 302		122716
+Hennessey Venom GT Spyder (DLC) 2076137
+Jaguar XKR			1399602
+Koenigsegg Agera R		589261
+Lamborghini Aventador		392074
+Lamborghini Aventador J (DLC)	2076203
+Lamborghini Countach		1085091
+Lamborghini Diablo SV (DLC)	2076339
+Lamborghini Gallardo		1085633
+Lancia Delta HF Integrale	1097100
+Range Rover Evoque		1085958
+Lexus LFA			1085511
+Marussia B2			1551590
+Maserati GT MC Stradale 	122757
+McLaren F1 LM (DLC)		2076070
+McLaren MP4-12C			122765
+Mercedes-Benz SL 65 AMG		122769
+Mercedes-Benz SLS AMG		122773
+Mitsubishi EVOLUTION X		866832
+NISSAN 350Z (DLC)		2076462 
+NISSAN GT-R EGOIST		435169
+NISSAN SKYLINE GT-R (R34) (DLC)	2076524
+Pagani Huayra			535435
+Pagani Zonda R	(DLC)		2076266
+Pontiac Firebird T/A		2196399
+Porsche 911 Carrera S		1085007
+Porsche 911 GT2			2076399 
+Porsche 911 Turbo 3.0		1085186
+Porsche 918 Spyder (DLC) 	2196000
+Porsche 918 Spyder Concept	1085830
+Porsche Panamera Turbo S	535621
+Shelby Cobra 427 ®		1085576
+Shelby GT500 ™	(DLC)		2196334 
+SRT Dodge Challenger SRT8 	122704
+SRT Viper GTS 			1160350
+Subaru Cosworth Impreza		122814
+Tesla Roadster Sport		1085764
+
+
+I found the rest of this document in a youtube comment... I dont remember which video it was but yeaa
+these are all cars that you arent normally supposed to be able to drive or unlock.
+List of IDs -------------------------------------------------------------------------------------------------------------------------------------------
+Normal cars:
+Dodge Challenger SRT8 (NFS MW Mobile edition- first car in tutorial)	:	122704
+			(just normal original game car)
+
+Promo cars:
+Dodge Charger SRT8 (Slim Jim Promo Car): 1399322
+Ford Focus ST (Multiplayer Only Car): 1399539
+Pagani Huayra (Trailer only car, similar to the original Huayra): 535435
+
+Police cars:
+Ford Explorer Police (Rhino): 	510072
+Ford Crown Victoria Police: 	122713
+Dodge Charger SRT8 Police: 	122706
+SWAT Van: 			1467242
+Corvette Z06 Police: 		122699
+
+Cut cars:
+ !! you must install additional files !!! You can download them at this site: https://nfsmods.xyz/usermods/1044
+Chevrolet Corvette Stingray	1085448
+Jeep Grand Cherokee SRT8	1097663
+Hummer H1 Alpha			1097968
+
+Pre-order, the limited edition game cars:
+(Have special black car paint and they have a little bit faster acceleration than original cars)
+Ford Raptor pre-order: 		1467164 (NFS Edition)
+Maserati MC12 pre-order:	1467172 (NFS Edition)
+Mercedes benz SL 65 pre-order:	1467179 (NFS Edition)
+Porsche 911 pre-order:		1467186 (NFS Edition)
+Caterham R500 pre-order:	1467156 (NFS Edition)
+
+They are also always black after you repair your car at knocking brothers.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown: 
+!!! Dont try these IDs because the game will crash !!!
+Aston Martin V12 Vantage:	122817  (will not work)
+Pagani Huayra NFS Edition:	1160687 (will not work)
+Nissan Versa: 			1644846 (will not work) 
+ ^ (beta car, after you get busted by police)
+
