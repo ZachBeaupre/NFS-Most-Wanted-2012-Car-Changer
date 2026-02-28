@@ -3,8 +3,11 @@ This took me a LONG time
 however adjusting the game speed using cheat engine made the process slightly more bearable.
 
 to use this in cheat engine: 
-(skip to line 26 if you are using the CT file)
+
 go to the process list and select NFS13.exe - this is the games executable and is what cheat engine will be modifying
+
+(skip to line 29 if you are using the CT file)
+
 click on the "add address manually" button and then do the following (in order)
 
 Click the checkbox labeled "Pointer", and enable it
@@ -25,6 +28,7 @@ then press ok to add it to the table.
 
 **Alternatively, if this is too complicated or tedious (i would agree) you can use the CT file i will provide... once i finish it**
 **the CT file will let you use a dropdown menu for choosing a car** 
+
 To change vehicles, double click on the word "value" and then edit the text in the window that appears then press "ok"
 next, crash your vehicle into a car, wall, off a cliff (make the crash cutscene thing happen) 
 OR
